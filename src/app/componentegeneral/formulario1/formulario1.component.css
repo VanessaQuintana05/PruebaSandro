@@ -1,0 +1,49 @@
+.style_label{
+padding: 4px 8px;
+
+}
+
+.style_input{
+    padding: 4px 8px 4px 8px;
+}
+
+.div_row{
+    display: inline-flex;
+    margin: 4px 8px 8px 4px;
+    width: 100%;
+}
+.div_row div:first-of-type{
+    width: 10%;
+}
+
+.div_row div .style_label
+{
+    background: yellow;
+    color: blue;
+    font-weight: bold;
+}
+
+.btn_class{
+    background: blue;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    font-weight: bold;
+    padding: 4px 20px;
+    
+
+}
+
+.div_row .style_label_2
+{
+    
+    color: black;    
+    font-size: 30px;
+    padding: 4px 8px;
+    
+}
+.fondo_ej2{
+    background: #ecf0f1;
+    height: 305px;
+}
+
